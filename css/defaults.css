@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(40, 40, 40);
+  margin: 0px;
+}
+p {
+  color: white;
+  margin: 8px;
+}
+h1 {
+  color: white;
+  background-color: black;
+  margin: 0px;
+  margin-top: 8px;
+}
+
+nav {
+  background-color: black;
+  margin: 0px;
+  padding: 12px;
+}
+
+div {
+  color: white;
+  display: inline;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
