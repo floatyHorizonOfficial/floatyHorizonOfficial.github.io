@@ -2,10 +2,16 @@ body {
   background-color: rgb(40, 40, 40);
   margin: 0px;
 }
+
 p {
   color: white;
   margin: 8px;
 }
+ol {
+  color: white;
+  margin: 8px;
+}
+
 h1 {
   color: white;
   background-color: black;
