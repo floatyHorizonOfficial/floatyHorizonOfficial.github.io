@@ -4,7 +4,7 @@ let clicked = 0;
 TempBtn.addEventListener("click", () => {
   if (clicked === 0) {
     let text = document.createElement("p");
-    let textNode = document.createTextNode("Never Gonna Give You Up! - You've been trolled! hehe");
+    let textNode = document.createTextNode("Dis is a Secret!")
     text.appendChild(textNode);
     document.body.appendChild(text);
     clicked++;
