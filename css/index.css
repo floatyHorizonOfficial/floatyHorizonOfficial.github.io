@@ -2,6 +2,7 @@ h1 {
   background-color: rgb(111, 136, 179);
   margin: 0px;
   padding: 10px 0px 16px 12px;
+  text-align: center;
 }
 
 h2 {
@@ -14,7 +15,7 @@ p {
 }
 
 div {
-  background-color: rgba(111, 136, 179, 0.75);
+  background-color: rgba(111, 136, 179, 0.50);
   margin: 1%;
   padding: 1%;
 }
@@ -29,6 +30,7 @@ ul {
   background-color: rgb(111, 136, 179);
   margin: 0px;
   list-style-type: none;
+  text-align: center;
 }
 
 li {
@@ -46,9 +48,17 @@ a {
 }
 
 a:hover {
-  background-color: rgb(82, 99, 128);
+  background-color: rgb(89, 108, 141);
+}
+
+#linkInArticle {
+  padding: 1px;
 }
 
 .Newsletter {
   margin: 11px;
+}
+
+div:hover {
+  background-color: rgba(131, 155, 197, 0.5);
 }
